@@ -1,3 +1,0 @@
-/home/kenzo/ichthys-amp/build/vst3_helpers/IchthysAmp/CMakeFiles/vst3_helper.dir
-/home/kenzo/ichthys-amp/build/vst3_helpers/IchthysAmp/CMakeFiles/edit_cache.dir
-/home/kenzo/ichthys-amp/build/vst3_helpers/IchthysAmp/CMakeFiles/rebuild_cache.dir

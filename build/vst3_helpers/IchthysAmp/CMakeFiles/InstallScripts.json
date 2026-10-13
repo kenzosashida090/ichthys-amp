@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/kenzo/ichthys-amp/build/vst3_helpers/IchthysAmp/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
