@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kenzo/ichthys-amp/build/cmake_install.cmake",
+		"/home/kenzo/ichthys-amp/build/external/JUCE/cmake_install.cmake",
+		"/home/kenzo/ichthys-amp/build/external/JUCE/modules/cmake_install.cmake",
+		"/home/kenzo/ichthys-amp/build/external/JUCE/extras/Build/cmake_install.cmake",
+		"/home/kenzo/ichthys-amp/build/external/JUCE/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
